@@ -1,5 +1,4 @@
-Hai, buddy Programmer. 
-    I started coding excitedly, when I realized that this skill can make me a lot of money! This fueled my struggle, even though I started to dislike coding. As time passed, I became proficient in solving problems and it started to see easy. Then I started to love programming😎. I realized that I can love to do anything if I am ready to go through the initial struggle. Now I'm working on enhancing my knowledge horizon and ready to learn anything. It was a journey from Zero to better. If you have an opportunity, where we both can grow, let's CHAT..
+Hii, I'm a person who started with the curiosity of understanding how I can build my fictional AI. That journey is now progressing with the fire of developing ML applications which solve real market problems.
     
 
 
